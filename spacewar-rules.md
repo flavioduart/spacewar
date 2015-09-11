@@ -11,4 +11,9 @@
 9. Não é permitido o uso de criptografias.
 10. Reconhecimento por sondas é livre.
 11. Não é permitido manter o escudo ativo por mais de 10 segundos.
-12. Munições limitadas, podendo recarregar a cada 10 segundos.
+12. Não é permitido o uso de cheats ou programas maliciosos.
+13. Durante a batalha, os jogadores terão direito a recarregar suas armas 2 vezes a cada novo oponente.
+14. Atirando com o escudo do oponente ativado, o tiro ricocheteia e você perde 2 pontos.
+15. Fica invalidada a regra de número 15.
+16. Ao termino da batalha, o vencedor deverá voltar a acender a Luz Branca da Paz (LBP).
+17. Munições limitadas, podendo recarregar a cada 10 segundos.
